@@ -1,2 +1,4 @@
 -- Databricks notebook source
-SELECT * FROM
+SELECT * FROM data.somefiles.csv
+
+WHERE
